@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'Chia-Network', // Usually your GitHub org/user name.
+  organizationName: 'kimsk', // Usually your GitHub org/user name.
   projectName: 'chialisp-web', // Usually your repo name.
   themeConfig: {
     prism: {
